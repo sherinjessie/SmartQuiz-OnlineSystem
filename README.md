@@ -141,7 +141,7 @@ Sign Up / Login  →  Choose Quiz  →  Answer Questions (Timer)  →  Submit  �
 
 | Sign Up | Quiz Page | Result |
 |---------|-----------|--------|
-| ![Signup](screenshots/signup.png) | ![Quiz](screenshots/quiz.png) | ![Result](screenshots/result.png) |
+| ![Signup](signup.png) | ![Quiz](quiz.png) | ![Result](result.png) |
 
 ---
 
